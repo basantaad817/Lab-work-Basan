@@ -9,3 +9,4 @@ num3= int(input("Enter third number"))
 num=num1 + num2 +num3
 
 print("The sum of those three numbers = ",num)
+print("The sum of three numbers is {} .".format(num))
