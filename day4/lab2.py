@@ -3,8 +3,8 @@
 num1 = int(input("Enter num1 \t"))
 num2 = int(input("Enter num2 \t"))
 num3 = int(input("Enter num3 \t"))
-
+sum= num1 +num2 +num3
 if num1 ==num2 or num2 ==num3 or num3 ==num1:
     print("you have type two number same")
 else:
-    print("The sum of given number = ",sum= num1 +num2 +num2)
+    print("The sum of given number = ",sum)
